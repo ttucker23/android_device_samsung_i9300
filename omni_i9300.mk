@@ -27,8 +27,8 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/samsung/i9300/device.mk)
 
 # Discard inherited values and use our own instead.
-PRODUCT_NAME := omni_i9300
-PRODUCT_DEVICE := i9300
+PRODUCT_NAME := omni_t999
+PRODUCT_DEVICE := T999
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := Samsung
-PRODUCT_MODEL := GT-I9300
+PRODUCT_MODEL := SGH-T999
